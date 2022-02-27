@@ -1,0 +1,9 @@
+.container{
+	min-height: 100px;
+	background-color: lightgreen
+}
+
+.container-fluid{
+	min-height: 100px;
+	background-color: lightsalmon;
+}
